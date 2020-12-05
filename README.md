@@ -16,7 +16,7 @@ Goals: begin conversations regarding the most appropriate design solutions for t
 
 The rest of the week should be spent determinig the right 'scaffolding' for the progect; this includes the arcitechture (from the architecture planning team) and wire frames (from the design planning team) for the project. During the time the teams should meet independantly as neccesary, and the product manager should check with each team member daily to ensure focus is maintained and any potential issues are identified as soon as possible. A daily stand up could be useful but I wouldn't implement that until the start fo the first formal sprint.  This work will also give the team a better idea of whether the timeline and budget is appropriate. If the existing budget and timeline is insufficient, it should be revealed as early as possible so that either the timeline / budget can be expanded or the scope can be reduced.
 
-Week 1 output: roadmap, architechture, & user flows should be complete.
+Week 1 output: first draft roadmap, architechture, & user flows should be complete.
 
 Monday, week 2: Internal status meeting
 Atendees: entire internal team
@@ -29,3 +29,4 @@ Goals: socialize the plan for back end and front end implementation, walk throug
 Monday or Tuesday: receive and address any feedback from the client. begin writing user stories, have design team move into creating high value comps have  the dev team start understanding the communications / APIs for the interfacing systems.
 
 
+Week 2 output: final roadmap, architechture, & user flows should be complete. User stories and Epic should be complete. Buy in from all stakeholders should be recieved.
